@@ -1,0 +1,30 @@
+
+		SOLIDWORKS FloXpress Report
+                , SOLIDWORKS FloXpress is a first pass qualitative flow analysis tool which gives insight into water or air flow inside your SOLIDWORKS model. To get more quantitative results like pressure drop, flow rate etc you will have to use SOLIDWORKS Flow Simulation. Please visit www.solidworks.com to learn more about the capabilities of SOLIDWORKS Flow Simulation.
+
+    Model
+                Model Name:   carriage assembly.sldasm
+
+    Fluid
+                Air
+
+    Inlet
+                Type:   Volume Flow Rate
+                Faces:   New_Blower-1/Boss-Extrude22//Face
+
+            Value
+                0.0033 m^3/s
+                293.20 K
+
+    Outlet
+                Type:   Environment Pressure
+                Faces:   New_Blower-1/Boss-Extrude22//Face
+
+            Value
+                101325.00 Pa
+                293.20 K
+
+    Results
+                
+                Name   	Unit   	Value
+                Maximum Velocity   	m/s   	264.082

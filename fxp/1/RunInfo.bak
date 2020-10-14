@@ -1,0 +1,28 @@
+﻿absolute path:C:\Users\Baris Cem Baykara\Dev\Carriage\fxp\1
+init:1
+run_capture:1
+run_solver:1
+new_calc:1
+close_monitor:0
+run_convert:0
+isOK:1
+ForceNewCalc:1
+run_capture_prestate:1
+StartFldName:C:\Users\Baris Cem Baykara\Dev\Carriage\fxp\1\1.fld
+TransTimeMoments:
+TransFldNames:
+CurSelTranFld:0
+Trans:0
+UsePrevRes:0
+ForcetoRunCPT:1
+ComputerName:
+port:50271
+ProcessResults:1
+LoadLastResult:0
+ProcessorsToUse:0
+LoadBaseFLDFile:0
+BaseFLDFile:
+id:{06B1AC99-0C4D-4244-8371-6DD97C517332}
+calculation_state:15
+ForceContinue:0
+SolverProcessId:10028
